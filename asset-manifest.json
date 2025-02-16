@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/thirawut03102004/Midterm.git/static/css/main.49faa5e3.css",
-    "main.js": "/thirawut03102004/Midterm.git/static/js/main.3d3ef9db.js",
-    "static/media/10.jpg": "/thirawut03102004/Midterm.git/static/media/10.5a1099f1d22f70341096.jpg",
-    "static/media/5.jpg": "/thirawut03102004/Midterm.git/static/media/5.be28daa7f373e9dc5170.jpg",
-    "static/media/1.jpg": "/thirawut03102004/Midterm.git/static/media/1.c893f0e91995360495df.jpg",
-    "static/media/6.jpg": "/thirawut03102004/Midterm.git/static/media/6.020822423d7138e4f355.jpg",
-    "static/media/7.jpg": "/thirawut03102004/Midterm.git/static/media/7.0fa6a11f4b328b4cbd2d.jpg",
-    "static/media/4.jpg": "/thirawut03102004/Midterm.git/static/media/4.840f5c74ea8e54eea3ea.jpg",
-    "static/media/12.jpg": "/thirawut03102004/Midterm.git/static/media/12.d676b99f279f82c1fe09.jpg",
-    "static/media/3.jpg": "/thirawut03102004/Midterm.git/static/media/3.d5fc43daec597ed669c8.jpg",
-    "static/media/2.jpg": "/thirawut03102004/Midterm.git/static/media/2.679641402f7594d9662b.jpg",
-    "index.html": "/thirawut03102004/Midterm.git/index.html",
-    "main.49faa5e3.css.map": "/thirawut03102004/Midterm.git/static/css/main.49faa5e3.css.map",
-    "main.3d3ef9db.js.map": "/thirawut03102004/Midterm.git/static/js/main.3d3ef9db.js.map"
+    "main.css": "/Midterm/static/css/main.49faa5e3.css",
+    "main.js": "/Midterm/static/js/main.fee8edc1.js",
+    "static/media/10.jpg": "/Midterm/static/media/10.5a1099f1d22f70341096.jpg",
+    "static/media/5.jpg": "/Midterm/static/media/5.be28daa7f373e9dc5170.jpg",
+    "static/media/1.jpg": "/Midterm/static/media/1.c893f0e91995360495df.jpg",
+    "static/media/6.jpg": "/Midterm/static/media/6.020822423d7138e4f355.jpg",
+    "static/media/7.jpg": "/Midterm/static/media/7.0fa6a11f4b328b4cbd2d.jpg",
+    "static/media/4.jpg": "/Midterm/static/media/4.840f5c74ea8e54eea3ea.jpg",
+    "static/media/12.jpg": "/Midterm/static/media/12.d676b99f279f82c1fe09.jpg",
+    "static/media/3.jpg": "/Midterm/static/media/3.d5fc43daec597ed669c8.jpg",
+    "static/media/2.jpg": "/Midterm/static/media/2.679641402f7594d9662b.jpg",
+    "index.html": "/Midterm/index.html",
+    "main.49faa5e3.css.map": "/Midterm/static/css/main.49faa5e3.css.map",
+    "main.fee8edc1.js.map": "/Midterm/static/js/main.fee8edc1.js.map"
   },
   "entrypoints": [
     "static/css/main.49faa5e3.css",
-    "static/js/main.3d3ef9db.js"
+    "static/js/main.fee8edc1.js"
   ]
 }
