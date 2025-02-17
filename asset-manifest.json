@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Midterm/static/css/main.49faa5e3.css",
-    "main.js": "/Midterm/static/js/main.fee8edc1.js",
+    "main.js": "/Midterm/static/js/main.e293ffbb.js",
     "static/media/10.jpg": "/Midterm/static/media/10.5a1099f1d22f70341096.jpg",
     "static/media/5.jpg": "/Midterm/static/media/5.be28daa7f373e9dc5170.jpg",
     "static/media/1.jpg": "/Midterm/static/media/1.c893f0e91995360495df.jpg",
@@ -13,10 +13,10 @@
     "static/media/2.jpg": "/Midterm/static/media/2.679641402f7594d9662b.jpg",
     "index.html": "/Midterm/index.html",
     "main.49faa5e3.css.map": "/Midterm/static/css/main.49faa5e3.css.map",
-    "main.fee8edc1.js.map": "/Midterm/static/js/main.fee8edc1.js.map"
+    "main.e293ffbb.js.map": "/Midterm/static/js/main.e293ffbb.js.map"
   },
   "entrypoints": [
     "static/css/main.49faa5e3.css",
-    "static/js/main.fee8edc1.js"
+    "static/js/main.e293ffbb.js"
   ]
 }
