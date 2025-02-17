@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-router-dom";
 import MenuPage from "./pages/MenuPage";
-import About from "./pages/AboutPage";
-import Contact from "./pages/ContactPage";
 import img1 from "./img/1.jpg";
 import img10 from "./img/10.jpg";
 import img12 from "./img/12.jpg";
@@ -110,10 +108,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/Midterm" element={<Home />} />
         <Route path="/menu" element={<MenuPage />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
       </Routes>
     </Router>
   );
